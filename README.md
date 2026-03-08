@@ -1,0 +1,37 @@
+# Kerispatih – Tapi Bukan Aku
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.00] Jangan lagi kau sesali keputusanku
+[00:12.56] Ku tak ingin kau semakin 'kan terluka
+[00:23.39] Tak ingin kupaksakan cinta ini
+[00:34.07] Meski tiada sanggup untuk kau terima
+[00:52.07] 
+[00:44.59] Aku memang manusia paling berdosa
+[00:55.14] Khianati rasa demi keinginan semu
+[01:05.90] Lebih baik jangan mencintai aku dan semua hatiku
+[01:16.41] Karena takkan pernah 'kan kau temui cinta sejati
+[01:40.41] 
+[01:28.59] Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi
+[01:39.41] Sekalipun aku takkan pernah mencoba kembali padamu
+[01:48.32] Sejuta kata maaf terasa 'kan percuma
+[01:58.90] S'bab rasaku t'lah mati untuk menyadarinya
+[02:19.90] 
+[02:28.53] Tapi bukan aku, uh-oh
+[02:39.15] Semoga saja 'kan kau dapati
+[02:44.40] Hati yang tulus mencintaimu
+[02:49.92] Tapi bukan aku
+[02:56.92] 
+[02:59.22] Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi
+[03:09.95] Sekalipun aku takkan pernah mencoba kembali padamu
+[03:19.22] Sejuta kata maaf terasa 'kan percuma
+[03:29.76] S'bab rasaku t'lah mati untuk menyadarinya
+[03:50.76] 
+[03:36.50] Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi
+[03:47.29] Sekalipun aku takkan pernah mencoba kembali padamu
+[03:56.45] Sejuta kata maaf terasa 'kan percuma
+[04:07.18] S'bab rasaku t'lah mati untuk menyadarinya
+[04:28.18] 
+[04:18.09] S'bab rasaku t'lah mati untuk menyadarinya
+```
