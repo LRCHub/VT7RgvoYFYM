@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tapi Bukan Aku",
+  "base_artist": "Kerispatih",
+  "createdAt": "2026-03-08T20:05:18.990695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/01_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "08 Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/02_08_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/03_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/04_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku (New Version)",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/05_Tapi_Bukan_Aku_(New_Version)_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/06_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Logonta Tarigan",
+      "has_synced": true,
+      "path": "select/07_Tapi_Bukan_Aku_Logonta_Tarigan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/08_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku Kerispatih",
+      "artist": "Liss",
+      "has_synced": true,
+      "path": "select/09_Tapi_Bukan_Aku_Kerispatih_Liss.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/10_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "08 Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/11_08_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": true,
+      "path": "select/12_Tapi_Bukan_Aku_Kerispatih.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kerispatih-Tapi bukan aku",
+      "artist": "KERISPATIH",
+      "has_synced": true,
+      "path": "select/13_Kerispatih-Tapi_bukan_aku_KERISPATIH.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tapi Bukan Aku",
+      "artist": "Krispatih",
+      "has_synced": true,
+      "path": "select/14_Tapi_Bukan_Aku_Krispatih.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "has_synced": false,
+      "path": "select/pl_01_Tapi_Bukan_Aku_Kerispatih.txt"
+    }
+  ]
+}
